@@ -1,0 +1,14 @@
+﻿1. başla
+2. bir sayı değeri atanır
+3. eğer sayı değeri 0 ile 100 arasında ise ekrana 0 - 100 arasında yazdırılır
+4. eğer sayı değeri 100 ile 200 arasında ise ekrana 100 - 200 arasında yazdırılır
+5. eğer sayı değeri 0 ile 200 arasında degil ise ekrana sınır dışında yazdırılır
+6. bitir
+
+1.başla
+2.kullanıcıdan bir tam sayı alınır
+3.eğer sayı 0 dan büyükse bir degişkene pozitif set edilir
+4.eğer sayı 0 dan küçükse bir degişkene negatif set edilir
+5.eğer sayı 0 a eşitse bir degişkene sıfıra eşit set edilir
+6.set edilen degişken ekrana yazdırılır
+7.bitiş
