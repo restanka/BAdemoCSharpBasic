@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypeConversions", "Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetotDemo1", "MetotDemo1\MetotDemo1.csproj", "{3B779506-CBCD-4684-A214-4AD3FF04C5D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{B9F0DA52-EB3F-4C08-9E8A-C48320B28D5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3B779506-CBCD-4684-A214-4AD3FF04C5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B779506-CBCD-4684-A214-4AD3FF04C5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B779506-CBCD-4684-A214-4AD3FF04C5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F0DA52-EB3F-4C08-9E8A-C48320B28D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F0DA52-EB3F-4C08-9E8A-C48320B28D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F0DA52-EB3F-4C08-9E8A-C48320B28D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F0DA52-EB3F-4C08-9E8A-C48320B28D5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

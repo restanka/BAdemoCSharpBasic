@@ -27,7 +27,7 @@ namespace MetotDemo1
         static double GirisAl(string sinav)
         {
             Console.Write(sinav + " : ");
-            string giris = Console.ReadLine();
+            string giris = Console.ReadLine(); 
             //return double.Parse(giris);
             return Convert.ToDouble(giris);
         }
